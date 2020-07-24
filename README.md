@@ -1,2 +1,2 @@
-# trm500
-simple TRM500 (oven controller) control panel
+# termos
+Web interface for "Termos" oven controller
